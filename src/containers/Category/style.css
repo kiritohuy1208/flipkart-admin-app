@@ -1,0 +1,36 @@
+.ctn-category{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.modal-header{
+    padding: 5px 15px;
+  
+    background-color: #7eb0f5 ;
+   
+}
+.modal-title{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+
+.modal-footer{
+    padding: 5px 15px
+}
+.actionBtnContainer{
+    display: flex;
+   align-items: center;
+}
+.actionBtnContainer > button{
+    align-items: center;
+    border: 0;
+    margin: 0 5px;
+    font-size: 13px;
+    font-weight: bold;
+  
+}
+.actionBtnContainer button .icon-size{
+    font-size: 20px;
+   margin: auto 0px;
+}

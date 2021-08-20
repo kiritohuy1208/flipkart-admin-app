@@ -1,0 +1,10 @@
+.Nav-custom {
+  background-color: #a9caf7 !important;
+}
+.signout-custom {
+  font-weight: bold;
+  color: rgb(3, 3, 61) !important;
+}
+.signout-custom:hover {
+  color: rgb(253, 53, 53) !important;
+}
